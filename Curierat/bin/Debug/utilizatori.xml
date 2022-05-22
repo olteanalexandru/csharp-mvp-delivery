@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<utilizatori>
+  <utilizator>
+    <legitimatie>2</legitimatie>
+    <nume>ad2</nume>
+    <cont>ad2</cont>
+    <parola>123</parola>
+    <rol>Coordonator</rol>
+  </utilizator>
+  <utilizator>
+    <legitimatie>3</legitimatie>
+    <nume>ad3</nume>
+    <cont>ad3</cont>
+    <parola>123</parola>
+    <rol>Curier</rol>
+  </utilizator>
+  <utilizator>
+    <legitimatie>111</legitimatie>
+    <nume>aaa</nume>
+    <cont>aaa</cont>
+    <parola>aaa</parola>
+    <rol>Curier</rol>
+  </utilizator>
+</utilizatori>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<colet>
+  <colet>
+    <cod_colet>1</cod_colet>
+    <locatie>Cluj</locatie>
+    <livrator>NU</livrator>
+    <traseuoptim>prioriatar</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>6</cod_colet>
+    <locatie>Turda</locatie>
+    <livrator>DA</livrator>
+    <traseuoptim>Dupa Cluj si Turda</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>444</cod_colet>
+    <locatie>Cluj</locatie>
+    <livrator>NU</livrator>
+    <traseuoptim>Daca s-au terminat coletele in Cluj</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>777</cod_colet>
+    <locatie>Cluj</locatie>
+    <livrator>NU</livrator>
+    <traseuoptim>prioriatar</traseuoptim>
+  </colet>
+</colet>

@@ -1,0 +1,49 @@
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.AdministratorV.resources
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.View.AutentificareV.resources
+C:\Users\PC\Desktop\Farmacie\Farmacie\Farmacie\obj\Debug\Farmacie.View.AngajatV.resources
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\bin\Debug\Farmacie.exe.config
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\bin\Debug\Farmacie.exe
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\bin\Debug\Farmacie.pdb
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.AdministratorV.resources
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.View.AutentificareV.resources
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.View.AngajatV.resources
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.exe
+D:\Facultate\Master_CSC\An1\Semestrul_2\PS(Proiectare Software)\Farmacie_de_predat\Farmacie\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.AdministratorV.resources
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.View.AutentificareV.resources
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.View.AngajatV.resources
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\PC\Desktop\Farmacie_de_predat_Work\Farmacie\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.AdministratorV.resources
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.View.AutentificareV.resources
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.View.CoordonatorV.resources
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\Admin\Desktop\farm\Farmacie\Farmacie\obj\Debug\Farmacie.pdb
